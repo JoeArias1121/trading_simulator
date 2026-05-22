@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/joearias1121/trading-simulator-backend.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/joearias1121/trading-simulator-engine.git
